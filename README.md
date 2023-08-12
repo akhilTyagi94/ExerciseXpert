@@ -31,10 +31,10 @@ ExerciseXpert is a dynamic and engaging React web application designed to help y
 
 ## Technologies Used
 
-React
-Material UI
-Rapid API
-Horizontal Scrolling Component
+1. React
+2. Material UI
+3. Rapid API
+4. Horizontal Scrolling Component
 
 ## Contributing
 
